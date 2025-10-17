@@ -1,0 +1,28 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Literature_Notes",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Format #1",
+      "format": "biblatex",
+      "command": "autocite"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Create research note",
+      "outputPathTemplate": "Literature_Notes/{{citekey}}.md",
+      "imageOutputPathTemplate": "Literature_Notes/attachments/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "cslStyle": "IEEE",
+      "templatePath": "Templates/my_template.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true
+}
