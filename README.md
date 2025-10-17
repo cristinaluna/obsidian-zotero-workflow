@@ -49,10 +49,12 @@ Vault/
 
 ## 🚀 Usage
 
-1. Create or update your literature notes through the Zotero Integration plugin.  
-2. Use the provided template (`my_template.md`) for structure and analytical consistency.  
-3. Open **Knowledge Management Plaza.md** to explore, search, and filter your notes dynamically.  
-4. Refine your view by adjusting inline variables (e.g. `authorFilter`, `categoryFilter`).  
+1. Download the code
+2. Open the folder in Obsidian as a Vault. t will configure automatically the different plugins.
+3. Create or update your literature notes through the Zotero Integration plugin. Add your notes by opening the command palette: Zotero Integration: Create research note (you should open Zotero first). It will open the Zotero pop-up for selecting the reference.
+4. Include any relevant information in the Literature Note, add thoughs, questions and categories.
+6. Open **Knowledge Management Plaza.md** to explore, search, and filter your notes dynamically.  
+7. Refine your view by adjusting inline variables (e.g. `authorFilter`, `categoryFilter`).  
 
 ---
 
