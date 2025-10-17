@@ -31,8 +31,6 @@ Vault/
 │ ├─ ...
 └─ Knowledge Management Plaza.md
 
-yaml
-Copy code
 
 - `Literature_Notes/` → stores automatically created notes via Zotero Integration  
 - `Templates/` → contains the literature note template(s)  
