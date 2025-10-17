@@ -62,9 +62,135 @@
               "icon": "lucide-file",
               "title": "my_template"
             }
+          },
+          {
+            "id": "aee4c770ae19599b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/my_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "my_template"
+            }
+          },
+          {
+            "id": "6955fe33ca12036b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/my_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "my_template"
+            }
+          },
+          {
+            "id": "aa09f9ff54cb9a7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/my_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "my_template"
+            }
+          },
+          {
+            "id": "cc7852e764ab24d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/my_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "my_template"
+            }
+          },
+          {
+            "id": "bd87323ec3745a95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/my_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "my_template"
+            }
+          },
+          {
+            "id": "eb3d576fb41eabda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/my_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "my_template"
+            }
+          },
+          {
+            "id": "9ad76d7c79886fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/my_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "my_template"
+            }
+          },
+          {
+            "id": "a16c81f8cac24dc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/my_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "my_template"
+            }
+          },
+          {
+            "id": "811891f6a12b42c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature_Notes/debenedettiRAPIDFASTNAVProjects2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "debenedettiRAPIDFASTNAVProjects2024"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -213,12 +339,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a9cce34281922fa",
+  "active": "811891f6a12b42c6",
   "lastOpenFiles": [
-    "Knowledge Management Plaza.md",
     "Templates/my_template.md",
-    "Literature_Notes/Example note.md",
     "Literature_Notes/debenedettiRAPIDFASTNAVProjects2024.md",
+    "Knowledge Management Plaza.md",
+    "README.md",
+    "Literature_Notes/Example note.md",
     "Literature_Notes/buscombeGrainsizeInformationStatistical2009.md",
     "References/desktop.ini",
     "References/gmv_planetary.bib",

@@ -11,13 +11,13 @@ cssclass: dashboard
 
 Use these colors consistently in Zotero to categorize your highlights:
 
-| Color | Type | Purpose |
-|-------|------|---------|
-| 🟡 **Yellow** (`#ffd400`) | Highlight | General important passages |
-| 🔴 **Red** (`#ff6666`) | Important | Critical concepts or key arguments |
-| 🟢 **Green** (`#5fb236`) | Reference | Citations or references to follow up |
-| 🔵 **Blue** (`#2ea8e5`) | Question | Raises questions or needs clarification |
-| 🟣 **Purple** (`#a28ae5`) | Definition | Definitions or theoretical frameworks |
+| Color                     | Type       | Purpose                                 |
+| ------------------------- | ---------- | --------------------------------------- |
+| 🟡 **Yellow** (`#ffd400`) | Highlight  | General important passages              |
+| 🔴 **Red** (`#ff6666`)    | Important  | Critical concepts or key arguments      |
+| 🟢 **Green** (`#5fb236`)  | Reference  | Citations or references to follow up    |
+| 🔵 **Blue** (`#2ea8e5`)   | Question   | Raises questions or needs clarification |
+| 🟣 **Purple** (`#a28ae5`) | Definition | Definitions or theoretical frameworks   |
 
 ---
 
